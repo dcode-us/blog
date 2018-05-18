@@ -357,7 +357,7 @@ meterpreter > download /tmp/derpissues.pcap
 
 ```
 
-After opening the pcap file we just downloaded with *Wireshark*, we can find an HTTP request to */weblog/wp-admin/user-new.php which gives us a lot of information regarding the *mrderp* user.
+After opening the pcap file we just downloaded with *Wireshark*, we can find an HTTP request to */weblog/wp-admin/user-new.php* which gives us a lot of information regarding the *mrderp* user.
 
 ![derpissues.pcap](files/derpissues_pcap_wireshark.png)
 
